@@ -9,6 +9,9 @@ function App() {
 
 
   
+
+
+  
   const passwordRef = useRef(null)
 
   const passwordGenerator = useCallback(() => {
@@ -98,7 +101,7 @@ function App() {
       <button
         onClick={passwordGenerator}
      
-      //
+    
       className="w-full bg-red-500 text-white py-2 rounded-md 
 hover:bg-transparent hover:text-black-500
 border-2 border-violet-500 
