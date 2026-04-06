@@ -120,7 +120,8 @@ hover:border-2 hover:border-violet-500"
       
       >
      
-        Generate Password
+        {/* Generate Password */}
+         Generate Password
       </button>
     </div>
   )
