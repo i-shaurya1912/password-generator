@@ -100,6 +100,7 @@ function App() {
         />
         <label>Numbers</label>
 
+        {/* <input */}
         <input
           type="checkbox"
           checked={charAllowed}
